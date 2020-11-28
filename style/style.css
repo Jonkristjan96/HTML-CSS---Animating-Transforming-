@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+#header {
+    background-image: url(/Photo/Steak.jpg);
+}
+
+.hero {
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
